@@ -3,7 +3,6 @@
 - 🌱 Atualmente estou aprendendo a linguagem de programação Python
 - 💞️ O meu objectivo é desenvolver sistemas que possam ajudar as pessoas no seu quotidiano. 
 - 📫 Como chegar até mim:
-- linkedin.com/in/djanélia-gonçalves
 - djanelia23d@gmail.com
 
 <!---
