@@ -37,7 +37,7 @@ Atualmente estudando:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/djanélia-gonçalves-ab86b12b7)  
 - 📧 dosanjosdjane1@gmail.com  
-- 🌍 [Portfolio QA (GitHub)](https://github.com/teu-usuario/qa-portfolio-djanelia)
+- 🌍 [Portfolio QA (GitHub)](https://djaneliasoares.github.io/)
 
 ---
 
