@@ -18,9 +18,9 @@ Atualmente, estou focada em desenvolver minhas habilidades em **testes manuais**
 - 🧩 **Testes Automatizados:** Cypress, Robot Framework, Selenium, Playwright  
 - 🌐 **Testes de API:** Postman, Isomnia 
 - 🐞 **Gestão de Bugs e Tarefas:** Jira, Trello, Notion  
-- 📊 **Planeamento e Documentação:** TestRail, Excel, Google Sheets  
+- 📊 **Planeamento e Documentação:** TestRail, Excel, Google Documentos 
 - ⚙️ **Versionamento:** Git & GitHub  
-- 🧠 **Outros:** Análise de Requisitos, Casos de Teste, Cenários de Teste, Relatórios de Defeitos
+- 🧠 **Outros:** Análise de Requisitos, Casos de Teste, Cenários de Teste, Relatórios de Defeitos, Testes funcionais, não funcionais , Testes de Integração, Testes de Sistema, Testes de Regressão, Testes de Aceitação e Testes Exploratório.
 
 ---
 
