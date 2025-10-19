@@ -29,7 +29,7 @@ Atualmente, estou focada em desenvolver minhas habilidades em **testes manuais**
 Atualmente estudando:
 - Automação de testes mobile com **Appium**
 - CI/CD com **GitHub Actions**
-- Boas práticas de QA Ágil e Testes Exploratórios
+- Boas práticas de QA Ágil 
 
 ---
 
